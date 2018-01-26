@@ -1,0 +1,6 @@
+c:\users\tonid\source\repos\uprazneniq W3R 1\2\bin\Debug\2.exe.config
+c:\users\tonid\source\repos\uprazneniq W3R 1\2\bin\Debug\2.exe
+c:\users\tonid\source\repos\uprazneniq W3R 1\2\bin\Debug\2.pdb
+c:\users\tonid\source\repos\uprazneniq W3R 1\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+c:\users\tonid\source\repos\uprazneniq W3R 1\2\obj\Debug\2.exe
+c:\users\tonid\source\repos\uprazneniq W3R 1\2\obj\Debug\2.pdb

@@ -1,0 +1,7 @@
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\bin\Debug\1.exe.config
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\bin\Debug\1.exe
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\bin\Debug\1.pdb
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\obj\Debug\1.exe
+c:\users\tonid\source\repos\uprazneniq W3R 1\1\obj\Debug\1.pdb
